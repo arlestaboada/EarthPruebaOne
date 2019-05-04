@@ -1,0 +1,9 @@
+{
+  "name": "earth-prueba-one",
+  "version": "0.0.0",
+  "description": "EarthPruebaOne",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}
